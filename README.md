@@ -6,6 +6,8 @@
 
 ## Windows
 
+請先安裝 [espeak 套件](http://espeak.sourceforge.net/download.html) ，並將放置 espeak.exe 檔案的資料夾，加入PATH之中。
+
 ```r
 install.packages('DSC2014Tutorial', repo = c('http://taiwanrusergroup.github.io/R', "http://cran.csie.ntu.edu.tw"), type = 'win.binary')
 ```
